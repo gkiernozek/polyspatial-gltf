@@ -2571,7 +2571,7 @@ GameObject:
   - component: {fileID: 635139106}
   - component: {fileID: 635139105}
   m_Layer: 0
-  m_Name: CustomShaderBox
+  m_Name: glTF-unlit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
